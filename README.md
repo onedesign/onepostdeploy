@@ -1,6 +1,6 @@
-## One Post Deployment Plugin
+## One Post Deployment Plugin for Craft
 
-The One Post Deployment plugin holds common console commands that can be run in post-deploy hooks.
+The One Post Deployment plugin holds common Craft CMS console commands that can be run in post-deploy hooks.
 
 ### Running the Commands
 
