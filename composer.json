@@ -1,0 +1,16 @@
+{
+    "name": "onedesign/onepostdeploy",
+    "description": "Holds common console commands that can be run in post-deploy hooks.",
+    "homepage": "https://github.com/onedesign/onepostdeploy",
+    "type": "craft-plugin",
+    "keywords": ["craft","plugin"],
+    "license": "MIT",
+    "authors": [{
+        "name": "One Design Company",
+        "email": "dev+onepostdeploy@onedesigncompany.com",
+        "homepage": "https://www.onedesigncompany.com"
+    }],
+    "require": {
+        
+    }
+}
